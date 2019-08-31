@@ -11,4 +11,4 @@ Topics covered
     <li>importing google fonts</li>
 <ul>
   
-Created my own version of the code for adjustments and prictise and possible use in future projects.
+<p>Created my own version of the code for adjustments and prictise and possible use in future projects.</p>
