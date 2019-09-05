@@ -1,8 +1,8 @@
 # Navbar-module
 
-Navbar module frame work created using DEV ED tutorial https://www.youtube.com/watch?v=gXkqy0b4M5g
+<p>Navbar module frame work created using DEV ED tutorial https://www.youtube.com/watch?v=gXkqy0b4M5g </p>
 
-Topics covered
+<p>Topics covered</p>
 <ul>
   <li>Media Screen size and transitions</li>
   <li>movment of content in css via transelation</li>
@@ -11,4 +11,4 @@ Topics covered
     <li>importing google fonts</li>
 <ul>
   
-<p>Created my own version of the code for adjustments and prictise and possible use in future projects.</p>
+<p>Created my own version of the code for adjustments and practise and possible use in future projects.</p>
